@@ -1,0 +1,6 @@
+langchain
+langgraph
+chainlit
+copilotkit
+newsapi-python
+smtplib
